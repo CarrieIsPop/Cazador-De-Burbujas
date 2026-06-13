@@ -1,0 +1,6 @@
+{
+  "name": "Cazador de Burbujas Virtual",
+  "description": "Videojuego interactivo de interacción gestual en tiempo real mediante visión artificial (MediaPipe Hands) para reventar burbujas con las manos.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
